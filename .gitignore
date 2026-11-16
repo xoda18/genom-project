@@ -1,0 +1,7 @@
+*.gz
+*.zip
+*.fna
+*.fastq
+*.fq
+main
+.DS_Store
